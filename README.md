@@ -28,6 +28,7 @@ Install with python
 - Auto Playing Game with Random Score
 - Auto Checkin Daily
 - Multi Account
+- Auto Join Tribe (new)
 
 ## Screenshots
 
