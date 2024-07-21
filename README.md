@@ -3,7 +3,6 @@
 Auto Claim Blum
 
 Join Here : [Blum](https://t.me/BlumCryptoBot/app?startapp=ref_YDIeHowsnz)
-Butuh invite code biar ga whitelist
 
 ## Installation
 
