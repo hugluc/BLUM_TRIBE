@@ -474,7 +474,7 @@ def print_welcome_message():
     print(Fore.GREEN + Style.BRIGHT + "Update Link: https://github.com/adearman/blum")
     print(Fore.YELLOW + Style.BRIGHT + "Free Konsultasi Join Telegram Channel: https://t.me/ghalibie")
     print(Fore.BLUE + Style.BRIGHT + "Buy me a coffee :) 0823 2367 3487 GOPAY / DANA")
-    print(Fore.RED + Style.BRIGHT + "NOT FOR SALE ! Ngotak dikit bang. Ngoding susah2 kau tinggal rename :)\n\n")
+    print(Fore.RED + Style.BRIGHT + "NOT FOR SALE !! Ngotak dikit bang. Ngoding susah2 kau tinggal rename :)\n\n")
     current_time = datetime.datetime.now()
     up_time = current_time - start_time
     days, remainder = divmod(up_time.total_seconds(), 86400)
